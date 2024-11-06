@@ -27,6 +27,6 @@ public class Zmienne {
 
         boolean sun = true; //false
 
-
+        // https://github.com/przemjan/trzeciaCgr2r2024
     }
 }
