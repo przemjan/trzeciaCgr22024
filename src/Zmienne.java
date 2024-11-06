@@ -24,9 +24,8 @@ public class Zmienne {
         System.out.print("Mój\t napis: " + napis + " koniec \n");
         System.out.print("Mój napis: " + napis);
 
-
         boolean sun = true; //false
 
-        // https://github.com/przemjan/trzeciaCgr2r2024
+        // https://github.com/przemjan/trzeciaCgr22024
     }
 }
